@@ -9,5 +9,4 @@ func main() {
 	}("universo")
 
 	fmt.Println(retorno)
-
 }
